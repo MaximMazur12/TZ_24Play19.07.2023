@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: eeb28df56eda3e243b91abbea18ae05e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Tkachenko Sketch 4F
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 427dafd9811a01842a1d554a5344985b, type: 3}
+  - {fileID: 12800000, guid: dc08ba225cdfcb349b082af709ad48b9, type: 3}
+  - {fileID: 12800000, guid: b11d8f000177698449c5629c8719c1a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

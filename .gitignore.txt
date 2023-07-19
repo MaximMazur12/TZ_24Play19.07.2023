@@ -1,0 +1,60 @@
+# Unity generated
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+
+# .DS_Store files
+.DS_Store
+
+# User-specific files
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.user
+*.pidb
+*.userprefs
+*.bak
+*.cache
+*.vs/
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# Unity3D Generated File On Crash Reports
+sysinfo.txt
+
+# macOS specific files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# Compiled bytecode
+*.dll
+*.pdb
+*.mdb
+
+# Logs
+*.log
+
+# Android build artifacts
+/*/build/
+/*/gen/
+/*/bin/
+
+# iOS build artifacts
+*.hmap
+*.ipa
+*.xcworkspace
+
+# Cache files for Visual Studio and MonoDevelop
+*.cache
+*.csproj.DotSettings.user
+*.pidb
